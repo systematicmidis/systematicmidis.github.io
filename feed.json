@@ -4,13 +4,13 @@
   "notes": "What's new in this release... Password protected app! DO NOT UPGRADE TO THIS VERSION UNLESS SYSTEMATIC HAS GIVEN YOU THE PASSWORD FOR THE APP!",
   "url": "https://systematicmidis.github.io/systematics-v1.3.0.0.zip",
   "versions": [
-    { "version": "1.2.5.0", "notes": "Poll feature out now! Too many features that I forgot all of them!", "url": "https://systematicmidis.github.io/systematics-1.2.5.0.zip" },
-    { "version": "1.2.1.0", "notes": "Poll feature out now! Downgrade to any version you like!", "url": "https://systematicmidis.github.io/systematics-1.2.1.0.zip" },
-    { "version": "1.2.0.0", "notes": "What's new in this release... Added news to the app!", "url": "https://systematicmidis.github.io/systematics-1.2.0.0.zip" },
-    { "version": "1.1.3.1", "notes": "What's new in this release... New light mode icons. All icons are PNG", "url": "https://systematicmidis.github.io/systematics-1.1.3.1.zip" },
-    { "version": "1.1.3.0", "notes": "What's new in this release... You can merge specific tracks now!", "url": "https://systematicmidis.github.io/systematics-1.1.3.0.zip" },
-    { "version": "1.1.2.0", "notes": "What's new in this release... Small fixes.", "url": "https://systematicmidis.github.io/systematics-1.1.2.0.zip" },
-    { "version": "1.1.1.0", "notes": "What's new in this release... Faster loading!", "url": "https://systematicmidis.github.io/systematics-1.1.1.0.zip" },
-    { "version": "1.1.0.0", "notes": "What's new in this release... Added better update system.", "url": "https://systematicmidis.github.io/systematics-1.1.0.0.zip" }
+    { "version": "1.2.5.0", "notes": "Poll feature out now! Too many features that I forgot all of them!", "url": "https://systematicmidis.github.io/systematics-v1.2.5.0.zip" },
+    { "version": "1.2.1.0", "notes": "Poll feature out now! Downgrade to any version you like!", "url": "https://systematicmidis.github.io/systematics-v1.2.1.0.zip" },
+    { "version": "1.2.0.0", "notes": "What's new in this release... Added news to the app!", "url": "https://systematicmidis.github.io/systematics-v1.2.0.0.zip" },
+    { "version": "1.1.3.1", "notes": "What's new in this release... New light mode icons. All icons are PNG", "url": "https://systematicmidis.github.io/systematics-v1.1.3.1.zip" },
+    { "version": "1.1.3.0", "notes": "What's new in this release... You can merge specific tracks now!", "url": "https://systematicmidis.github.io/systematics-v1.1.3.0.zip" },
+    { "version": "1.1.2.0", "notes": "What's new in this release... Small fixes.", "url": "https://systematicmidis.github.io/systematics-v1.1.2.0.zip" },
+    { "version": "1.1.1.0", "notes": "What's new in this release... Faster loading!", "url": "https://systematicmidis.github.io/systematics-v1.1.1.0.zip" },
+    { "version": "1.1.0.0", "notes": "What's new in this release... Added better update system.", "url": "https://systematicmidis.github.io/systematics-v1.1.0.0.zip" }
   ]
 }

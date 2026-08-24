@@ -1,0 +1,11 @@
+{
+  "packs": [
+    {
+      "name": "test",
+      "version": "1.0",
+      "author": "Systematic",
+      "description": "What it does",
+      "url": "https://github.com/systematicmidis/Trillion-midi-maker-resource-packs/raw/refs/heads/main/packs/test.zip"
+    }
+  ]
+}
